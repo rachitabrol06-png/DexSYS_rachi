@@ -118,3 +118,6 @@ The project now includes an improved user interface demonstration.
 ## Development Update
 
 This update demonstrates feature branch development using Git.
+## Project Documentation
+..
+This section provides additional information about the frontend and helps new contributors understand the project structure and development workflow.
